@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rzc7uzoqKZM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ananeema\\Source\\Repos\\anandneema14\\MicroServices_ASPNETCore8\\TestSolution\\ExampleMinimal\\ExampleMinimal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ananeema\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -8,25 +8,30 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/anandneema/.nuget/packages/": {}
+    "C:\\Users\\ananeema\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anandneema/Desktop/MicroServices_ASPNETCore8/TestSolution/TestUtility/TestUtility.csproj",
+      "projectUniqueName": "C:\\Users\\ananeema\\Source\\Repos\\anandneema14\\MicroServices_ASPNETCore8\\TestSolution\\TestUtility\\TestUtility.csproj",
       "projectName": "TestUtility",
-      "projectPath": "/Users/anandneema/Desktop/MicroServices_ASPNETCore8/TestSolution/TestUtility/TestUtility.csproj",
-      "packagesPath": "/Users/anandneema/.nuget/packages/",
-      "outputPath": "/Users/anandneema/Desktop/MicroServices_ASPNETCore8/TestSolution/TestUtility/obj/",
+      "projectPath": "C:\\Users\\ananeema\\Source\\Repos\\anandneema14\\MicroServices_ASPNETCore8\\TestSolution\\TestUtility\\TestUtility.csproj",
+      "packagesPath": "C:\\Users\\ananeema\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ananeema\\Source\\Repos\\anandneema14\\MicroServices_ASPNETCore8\\TestSolution\\TestUtility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/anandneema/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ananeema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/Deloitte-US-Tax/index.json": {},
+        "https://pkgs.dev.azure.com/deloittebsg/_packaging/APP1721/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -64,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
